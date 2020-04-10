@@ -1,0 +1,15 @@
+div.test {
+    width: 500px;
+    height: 500px;
+    background-color: lightblue;
+    color: black;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+button {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
